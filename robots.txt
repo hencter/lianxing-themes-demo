@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://hencter.github.io/lianxing-themes-demo/sitemap.xml

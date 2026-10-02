@@ -1,0 +1,9 @@
+# 发布产物：统一按 LF 入库，避免每次发布产生无意义的换行符差异
+* text=auto eol=lf
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.webp binary
+*.avif binary
+*.gif binary
+*.ico binary
